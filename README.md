@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @damianiandrea
+- 👀 I’m interested in programming, working out, tv shows
+- 🌱 I’m currently learning Go, DDD, and a lotta other stuff!
+- 💞️ I’m looking to collaborate on anything related to Java and Go
+- 📫 How to reach me: andrea_damiani@protonmail.com
